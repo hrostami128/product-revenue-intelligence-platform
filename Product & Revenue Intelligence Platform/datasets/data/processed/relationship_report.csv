@@ -1,0 +1,7 @@
+parent_table,child_table,parent_unique,child_unique,orphan_keys,referential_integrity
+customer_id,customer_id,99441,99441,0,True
+order_id,order_id,99441,98666,0,True
+product_id,product_id,32951,32951,0,True
+seller_id,seller_id,3095,3095,0,True
+order_id,order_id,99441,99440,0,True
+order_id,order_id,99441,98673,0,True
